@@ -36,7 +36,7 @@ imports:
   version: fe7536c3dee2596cdd23ee9976a17c22bdaae286
 - name: github.com/pkg/errors
   version: c605e284fe17294bda444b34710735b29d1a9d90
-- name: github.com/Sirupsen/logrus
+- name: github.com/sirupsen/logrus
   version: 85b1699d505667d13f8ac4478c1debbf85d6c5de
 - name: github.com/spf13/afero
   version: 9be650865eab0c12963d8753212f4f9c66cdcf12
